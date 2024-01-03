@@ -10,6 +10,7 @@ Ini adalah projek akhir pembuatan pengolahan sistem manajemen basis data sederha
  5.	Memikili fitur login/logout
 
 Di dalam aplikasi ini telah menggunakan dan juga telah terdapat fitur sweealert javascript dan juga telah menggunakan ajax yang digunakan untuk select option bertingkat
+
 https://sweetalert2.github.io/
 
 
@@ -22,9 +23,11 @@ Dibuat Oleh :
 
 Demo 
  Link-url => akan segera ditambahkan
+
  Preview  => https://www.youtube.com/watch?v=FESSISM1WuY
 
 
 
 username = reyhanbaiq
+
 password = 12345
